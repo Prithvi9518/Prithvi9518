@@ -5,10 +5,8 @@ I’m interested in ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
- I'm a first-year student currently pursuing a BSc(Hons.) in Computing in Games Development. 
-I'm currently exploring and finding out what interests me the most in software development. My primary interest as of now happens to be game development.
+I'm a first-year student currently pursuing a BSc(Hons.) in Computing in Games Development. 
 
-I'm currently learning Java, C++ and Unity.
 
 
 <!---
