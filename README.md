@@ -4,7 +4,9 @@ I'm a second-year student currently pursuing a BSc (Hons.) in Computing in Games
 
 I'm interested in game and software development, and always looking to improve my programming skills.
 - 🌱 I'm currently learning C# using the Unity game engine, as well as Java and Python.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/prithvi-muvvala/)
+
+
+<!-- - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/prithvi-muvvala/) -->
 
 <!---
 I’m interested in ...
