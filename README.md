@@ -1,9 +1,8 @@
 👋 Hi, I'm Prithvi Muvvala.
 
-I'm a third-year student currently pursuing a BSc (Hons.) in Computing in Games Development. 
+I'm a fourth-year student currently pursuing a BSc (Hons.) in Computing in Games Development. 
 
 I'm interested in game and software development, and always looking to improve my programming skills.
-- 🌱 I'm currently learning C++, Python, and C#.
 
 
 <!-- - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/prithvi-muvvala/) -->
